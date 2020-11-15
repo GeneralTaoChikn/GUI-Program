@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Chris\source\repos\Program 4\Program 4\Main.h(202,16): warning C4551: function call missing argument list
+  Program 4.cpp
+C:\Users\Chris\source\repos\Program 4\Program 4\Main.h(202,16): warning C4551: function call missing argument list
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Program 4.vcxproj -> C:\Users\Chris\source\repos\Program 4\Debug\Program 4.exe
